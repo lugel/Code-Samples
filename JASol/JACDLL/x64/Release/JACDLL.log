@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  JACDLL.cpp
+c:\users\wojtek\source\repos\sth\jasol\jacdll\jacdll.cpp(27): warning C4273: 'findBorders': inconsistent dll linkage
+  c:\users\wojtek\source\repos\sth\jasol\jacdll\jacdll.h(4): note: see previous definition of 'findBorders'
+     Creating library C:\Users\Wojtek\source\repos\sth\JASol\x64\Release\JACDLL.lib and object C:\Users\Wojtek\source\repos\sth\JASol\x64\Release\JACDLL.exp
+  Generating code
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JACDLL.vcxproj -> C:\Users\Wojtek\source\repos\sth\JASol\x64\Release\JACDLL.dll
