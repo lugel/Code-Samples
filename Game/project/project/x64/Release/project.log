@@ -1,0 +1,25 @@
+﻿  bullet.cpp
+  character.cpp
+  enemy.cpp
+  game.cpp
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  object.cpp
+  pickups.cpp
+  player.cpp
+  powerup.cpp
+  terrain.cpp
+LINK : warning C4727: PCH named c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\x64\release\project.pch with same timestamp found in c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\x64\release\enemy.obj and c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\x64\release\character.obj.  Using first PCH.
+LINK : warning C4727: PCH named c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\x64\release\project.pch with same timestamp found in c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\x64\release\pickups.obj and c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\x64\release\object.obj.  Using first PCH.
+  Generating code
+  All 220 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  project.vcxproj -> C:\Users\Wojtek\source\repos\bbdac9aa-gr32-repo\Projekt\project\x64\Release\project.exe

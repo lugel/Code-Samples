@@ -1,0 +1,60 @@
+﻿  game.cpp
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(81): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(85): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(132): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(141): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(263): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\wojtek\source\repos\bbdac9aa-gr32-repo\projekt\project\project\game.cpp(267): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  project.vcxproj -> C:\Users\Wojtek\source\repos\bbdac9aa-gr32-repo\Projekt\project\x64\Debug\project.exe

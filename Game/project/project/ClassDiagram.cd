@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bullet">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAACAAAAIYAAAAAAIQAAAABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="character">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABAAAAAwAAAAIAAAIgAAAAYAQAFAABAAAAAAgA=</HashCode>
+      <FileName>character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemy">
+    <Position X="8.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAQBBAAAAAAAgAAAAAEI=</HashCode>
+      <FileName>enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEAAABAAAAQIAACAAgAAAAAQIAgSAAAAQINA=</HashCode>
+      <FileName>game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="object">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAA=</HashCode>
+      <FileName>object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pickups">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAQABgAAAAABAAAAAAAA=</HashCode>
+      <FileName>pickups.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="player">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAIAAAABAAAAAAJAAAAAAAAAAA=</HashCode>
+      <FileName>player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="terrain">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAIAAAAAAEAAAAACBAAAA=</HashCode>
+      <FileName>terrain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PickupTypes">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAQAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>consts.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EnemyTypes">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>consts.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BulletTypes">
+    <Position X="13" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>consts.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BlocksTypes">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>consts.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
